@@ -9,7 +9,7 @@ CARA-THE STYLIST AND SEASONAL CLOTHING PLATFORM
 Cara is a fully responsive website, Responsive for all devices, build using HTML, CSS, and JavaScript.
 
 
-  <a href="https://kishan-pravinbhai-panchal.github.io/CARA---THE-STYLIST-AND-SEASONAL-CLOTHING-PLATFORM/"><strong>➥ Live Demo</strong></a>
+  <a href="https://kishan-pravinbhai-panchal.github.io/CARA-THE-STYLIST-AND-SEASONAL-CLOTHING-PLATFORM/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
